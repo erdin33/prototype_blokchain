@@ -1,0 +1,114 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\prototipe-kredensial\\prototipe-kredensial\\contracts\\CredentialRegistry.sol": {
+      "lastModificationDate": 1791944454238,
+      "contentHash": "302d5d50ca3d603ab4d23cddd9241d79",
+      "sourceName": "contracts/CredentialRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "CredentialRegistry",
+        "IIssuerRegistry"
+      ]
+    },
+    "D:\\prototipe-kredensial\\prototipe-kredensial\\contracts\\Governance.sol": {
+      "lastModificationDate": 1791944454239,
+      "contentHash": "f943c4203b531e11fca68012f549bdab",
+      "sourceName": "contracts/Governance.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "Governance"
+      ]
+    },
+    "D:\\prototipe-kredensial\\prototipe-kredensial\\contracts\\IssuerRegistry.sol": {
+      "lastModificationDate": 1791944454240,
+      "contentHash": "03074471836b3ece060e14a90dd639b1",
+      "sourceName": "contracts/IssuerRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "IssuerRegistry"
+      ]
+    }
+  }
+}
